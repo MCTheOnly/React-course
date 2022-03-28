@@ -18,10 +18,18 @@ code {
     monospace;
 }
 
+button {
+  padding: 5px;
+}
+
+.App {
+  padding: 0 80px;
+}
+
 .header__wrapper {
   display: flex;
   justify-content: space-between;
-  padding: 40px 80px;
+  padding: 40px 0;
 }
 
 .header__nav {
